@@ -1,0 +1,11 @@
+.image-container {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image-container .my-logo {
+    width: 240px;
+    height: 240px;
+    opacity: 0.8;
+
+}
