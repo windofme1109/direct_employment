@@ -22,16 +22,15 @@
   4. 前后端交互
      - axios
 #### 4. 功能界面
-  1. 登录界面
-     ![登录](https://github.com/windofme1109/direct_employment/blob/master/img/login.png)
-  2. 注册界面
-    ![注册](https://github.com/windofme1109/direct_employment/blob/master/img/register.png)
-  3. 用户列表界面
-    ![用户列表](https://github.com/windofme1109/direct_employment/blob/master/img/user-list-boss.png)
-  4. 消息列表界面
-    ![消息列表](https://github.com/windofme1109/direct_employment/blob/master/img/message-list-boss.png)
-   5. 个人中心界面
-     ![个人中心](https://github.com/windofme1109/direct_employment/blob/master/img/personal-boss.png)
-   6. 聊天界面
-     ![个人中心](https://github.com/windofme1109/direct_employment/blob/master/img/chat-boss.png)
-#### 5. 心得体会
+  1. 登录界面  
+  ![登录](https://github.com/windofme1109/direct_employment/blob/master/img/login.png)
+  2. 注册界面  
+  ![注册](https://github.com/windofme1109/direct_employment/blob/master/img/register.png)
+  3. 用户列表界面  
+  ![用户列表](https://github.com/windofme1109/direct_employment/blob/master/img/user-list-boss.png)
+  4. 消息列表界面  
+  ![消息列表](https://github.com/windofme1109/direct_employment/blob/master/img/message-list-boss.png)
+   5. 个人中心界面  
+   ![个人中心](https://github.com/windofme1109/direct_employment/blob/master/img/personal-boss.png)
+   6. 聊天界面  
+   ![个人中心](https://github.com/windofme1109/direct_employment/blob/master/img/chat-boss.png)
